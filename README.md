@@ -4,8 +4,10 @@
 
 updates made og github master before rebase
 
-##Repository Purpose
+## Repository Purpose
 This will be the change that conflict with whatever is on the remote side.
 
-##Purpose
+## Purpose
 The purpose of the file is to produce example on how to use git and github togrther.
+## Getting started
+To get started with a repo on your local machine just **clone it**
